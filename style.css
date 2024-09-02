@@ -1,0 +1,13 @@
+body{
+    background-color: lightblue;
+    color:black;
+    font-family: Arial, Helvetica sans-serif;
+}
+main{
+text-align: center;
+width: 300px;
+margin:auto;
+background-color: lightcyan;
+padding: 20px;
+border: 1px solid lightgray;
+}
